@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+.bodder{
+    margin-top: 90px;
+    
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color:rgb(87, 238, 135)
+    
+}
+.text-center{
+
+text-align: center;
+}
+.bg-red{
+background-color: brown;
+}
+.mx-auto {
+margin: auto;
+}
+.flex{
+display:  flex;
+}
+.flex-col{
+flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
